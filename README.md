@@ -6,6 +6,7 @@ newspapers.
 
 This remake is dedicated to all the kids who, for minimum wage, 
 toiled away in dark streets while trying to avoid angry senior citizens in 
-smelly stairwells or angry attacked dogs or bratty brats.
+smelly stairwells or angry dogs or bratty brats.
 
-Will be created with Godot ![Godot](icon.svg)
+Might be created with Godot 
+![Godot](icon.svg)
